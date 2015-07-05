@@ -4,10 +4,10 @@
 	<test name="Test1">
 		<parameter name="path" value="/"/>
 		<classes>
-		    <class name="Login"/>
-		    <class name="AddFilm"/>
-		    <class name="RemoveFilm"/>
-		    <class name="Logout"/>
+		    <class name="Login.java"/>
+		    <class name="AddFilm.java"/>
+		    <class name="RemoveFilm.java"/>
+		    <class name="Logout.java"/>
 		</classes>
 	</test>  
 </suite>
